@@ -1,0 +1,2 @@
+# VanillaGAN
+GAN for MNIST
