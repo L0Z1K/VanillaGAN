@@ -23,7 +23,7 @@ class DataLoader:
         super(data.DataLoader).__init__()
         
         self.dataloader = data.DataLoader(dataset=dataset,
-                                          batch_size=100,
+                                          batch_size=1,
                                           shuffle=True,
                                           drop_last=True)
 
